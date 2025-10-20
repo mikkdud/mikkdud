@@ -19,4 +19,6 @@ I’m passionate about **AI, data analysis, and technology at the intersection o
 
 Thanks for stopping by — have a great day! 😄  
 
-![AGH Logo](https://upload.wikimedia.org/wikipedia/en/4/4e/AGH_University_of_Science_and_Technology_logo.png)
+<p align="center">
+  <img src="agh_logo.png" width="200"/>
+</p>

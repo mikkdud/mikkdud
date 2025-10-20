@@ -20,5 +20,5 @@ I’m passionate about **AI, data analysis, and technology at the intersection o
 Thanks for stopping by — have a great day! 😄  
 
 <p align="center">
-  <img src="agh_logo.png" width="200"/>
+  <img src="AGH.png" width="200"/>
 </p>

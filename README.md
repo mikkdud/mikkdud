@@ -13,7 +13,7 @@ I’m passionate about **AI, data analysis, and technology at the intersection o
 ---
 
 ### 🎯 Outside of tech
-⛵ Sailing enthusiast • 🏐 Volleyball player • 📚 Interested in presuppositional apologetics
+🎸 Guitar player • ⛵ Sailing enthusiast • 🏐 Volleyball player • 📚 Interested in presuppositional apologetics
 
 ---
 
